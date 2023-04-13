@@ -1,0 +1,11 @@
+;Collettivo selezionato;laurea di primo livello;laurea magistrale biennale
+Numero di laureati;102;62;40
+Numero di intervistati;75;47;28
+Tasso di risposta sul totale dei laureati;"73,5";"75,8";70
+Tasso di risposta sui laureati contattabili;"77,3";"75,8";80
+Uomini;"52,9";"58,1";45
+Donne;"47,1";"41,9";55
+"Età alla laurea (medie, in anni)";"25,5";"23,9";"27,8"
+"Voto di laurea ""(medie in 110-mi)"";"104,1";"101,7";"107,9"
+"Durata degli studi(medie in anni)";3;"3,3";"2,6"
+Indice di ritardo; "0,18";"0,1";"0,29"
